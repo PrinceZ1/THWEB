@@ -1,0 +1,5 @@
+servlet\BookServlet.class
+com\mycompany\thweb\JakartaRestConfiguration.class
+com\mycompany\thweb\resources\JakartaEE10Resource.class
+model\Book.class
+servlet\LoginServlet.class
